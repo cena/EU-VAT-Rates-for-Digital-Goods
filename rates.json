@@ -1,21 +1,21 @@
 {
 	"disclaimer"  : "These rates have been compiled from the EU documentation on VAT Rates applied in member states, however no guarantee of accuracy is provided so use at your own risk. This feed is in no way affiliated with or endorsed by the European Commission.",
-	"last_updated": "2020-07-14",
+	"last_updated": "2022-04-13",
 	"rates"       : {
 		"AT": {
 			"country"      : "Austria",
 			"standard_rate": 20.0000,
-			"ebook_rate"   : 20.0000
+			"ebook_rate"   : 5.0000
 		},
 		"BE": {
 			"country"      : "Belgium",
 			"standard_rate": 21.0000,
-			"ebook_rate"   : 21.0000
+			"ebook_rate"   : 6.0000
 		},
 		"BG": {
 			"country"      : "Bulgaria",
 			"standard_rate": 20.0000,
-			"ebook_rate"   : 20.0000
+			"ebook_rate"   : 9.0000
 		},
 		"CY": {
 			"country"      : "Cyprus",
@@ -34,8 +34,8 @@
 		},
 		"DE": {
 			"country"      : "Germany",
-			"standard_rate": 16.0000,
-			"ebook_rate"   : 16.0000
+			"standard_rate": 19.0000,
+			"ebook_rate"   : 19.0000
 		},
 		"EE": {
 			"country"      : "Estonia",
@@ -85,7 +85,8 @@
 		"IM": {
 			"country"      : "Isle of Man",
 			"standard_rate": 20.0000,
-			"ebook_rate"   : 20.0000
+			"ebook_rate"   : 20.0000,
+			"_comment"     : "Isle of Man uses GB VAT rates"
 		},
 		"IT": {
 			"country"      : "Italy",
@@ -105,17 +106,18 @@
 		"LU": {
 			"country"      : "Luxembourg",
 			"standard_rate": 17.0000,
-			"ebook_rate"   : 3.0000
+			"ebook_rate"   : 17.0000
 		},
 		"MC": {
 			"country"      : "Monaco",
 			"standard_rate": 20.0000,
-			"ebook_rate"   : 5.5000
+			"ebook_rate"   : 5.5000,
+			"_comment"     : "Monaco uses FR rates"
 		},
 		"MT": {
 			"country"      : "Malta",
 			"standard_rate": 18.0000,
-			"ebook_rate"   : 5.0000
+			"ebook_rate"   : 18.0000
 		},
 		"NL": {
 			"country"      : "Netherlands",
@@ -130,12 +132,12 @@
 		"PT": {
 			"country"      : "Portugal",
 			"standard_rate": 23.0000,
-			"ebook_rate"   : 23.0000
+			"ebook_rate"   : 6.0000
 		},
 		"RO": {
 			"country"      : "Romania",
 			"standard_rate": 19.0000,
-			"ebook_rate"   : 5.0000
+			"ebook_rate"   : 19.0000
 		},
 		"SI": {
 			"country"      : "Slovenia",
